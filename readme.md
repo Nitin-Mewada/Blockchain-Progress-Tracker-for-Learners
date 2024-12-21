@@ -11,6 +11,8 @@ The project provides a decentralized and verifiable way of maintaining an educat
 
 ## Contract Address
 0x9654fA3a7cA60345DD34607A55f36a93598E636d
+![image](https://github.com/user-attachments/assets/45c29fe8-9f67-4915-a917-1be849b244fc)
+
 
 
 ## Project Vision
